@@ -1,2 +1,2 @@
 # detectifz
-DETECTIFz is a cluster/group finder algorithm
+This page will host the public, python version of DETECTIFz, a cluster/group finder algorithm presented in https://arxiv.org/abs/2106.13101
