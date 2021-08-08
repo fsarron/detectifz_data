@@ -28,3 +28,6 @@ Ngal_M10.5_u68 - upper 68 confidence limit of Ngal (richness) estimate
 SMtot_M10.5_median - median of total stellar mass estimate
 SMtot_M10.5_l68 - lower 68 confidence limit of total stellar mass estimate
 SMtot_M10.5_u68 - upper 68 confidence limit of total stellar mass estimate
+
+
+
